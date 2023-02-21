@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/RuslanLost/RuslanLost/blob/main/assets/software-bug-web.png)](https://github.com/RuslanLost)
 # QA ENGINEER
 
 ## My CV
