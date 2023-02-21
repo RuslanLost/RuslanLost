@@ -2,7 +2,7 @@
 # QA ENGINEER
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://disk.yandex.ru/i/A01mHvXd8Eo-lA)
 
 
 ### Language and Tools
@@ -17,9 +17,9 @@
 ### Testing Documentation
 
 
-- [Chek_lists and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Chek_lists and Test-Cases](https://github.com/RuslanLost/Check_lists-and-test-cases)
+- [Bug-Reports](https://github.com/RuslanLost/bug_reports)
+- [Postman Collections](https://github.com/RuslanLost/postman_autotest_collections)
 
 ### Contacts
 
