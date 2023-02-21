@@ -17,9 +17,9 @@
 ### Testing Documentation
 
 
-- [Chek_lists and Test-Cases](https://github.com/RuslanLost/Check_lists-and-test-cases)
-- [Bug-Reports](https://github.com/RuslanLost/bug_reports)
-- [Postman Collections](https://github.com/RuslanLost/postman_autotest_collections)
+- [Chek_lists and Test-Cases](https://disk.yandex.ru/d/3U3cuOHkj45usw)
+- [Bug-Reports](https://disk.yandex.ru/d/GGwLaN0KrSzwUA)
+- [Postman Collections](https://disk.yandex.ru/d/6-jUSJ20xlvLKA)
 
 ### Contacts
 
