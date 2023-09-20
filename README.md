@@ -2,7 +2,7 @@
 # QA ENGINEER
 
 ## My CV
-[Link to my CV](https://disk.yandex.ru/i/A01mHvXd8Eo-lA)
+[Link to my CV](https://disk.yandex.ru/)
 
 
 ### Language and Tools
